@@ -60,7 +60,7 @@ h1:hover{
 }
 .card{
   box-shadow:0 4px 8px 0 rgba(0,0,0,0.2);
-  background-color: rgb(102, 96, 90);
+  background-color: white;
   text-align:center;
   padding:30px;
   
